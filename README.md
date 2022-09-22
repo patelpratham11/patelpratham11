@@ -1,2 +1,42 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelpratham11)](https://github.com/anuraghazra/github-readme-stats)
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div id="header" align="center">
+
+![Pixel Shuba Duck Dance](https://i.makeagif.com/media/6-26-2021/2mElPC.gif)
+
+
+   <div id="badges">
+    <a href="https://www.linkedin.com/in/patelpratham11/">
+      <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://prathampatel.netlify.app">
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+</div>
+
+## 🧔🏽‍♂️ About Me 
+
+- 👨🏾‍💻 I'm a CS Junior @ Pitt with a Chemistry Minor
+- 🔬 Undergraduate Alzheimer's Disease Researcher
+- 🏦 Former **PNC** intern 
+<br><br>
+## 💻 Technologies
+<div style="display:flex">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img alt="GithubActions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white">
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+<br><br>
+## 🤔 Interests
+- 🤖 Artifical Intelligence
+- 📸 Software Engineering
+- 🧐 Tech Consulting
