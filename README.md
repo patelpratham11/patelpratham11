@@ -17,6 +17,7 @@
 
 - 👨🏾‍💻 I'm a CS Junior @ Pitt with a Chemistry Minor
 - 🔬 Undergraduate Alzheimer's Disease Researcher
+- ✈️ Incoming Emerging Tech Consultant at **Protiviti**
 - 🏦 Former **PNC** intern 
 <br><br>
 ## 💻 Technologies
@@ -27,11 +28,9 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img alt="GithubActions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white">
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
@@ -40,3 +39,10 @@
 - 🤖 Artifical Intelligence
 - 📸 Software Engineering
 - 🧐 Tech Consulting
+
+## 🏛️ Relevant Classes
+- 🥇 Data Structures & Algorithms I and II
+- 💻 Introduction to Systems Softwares
+- 🌎 Web Development
+- 🖱️ Software Engineering
+
