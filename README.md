@@ -11,9 +11,10 @@
       <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=patelpratham11&theme=ads-juicy-fresh&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=patelpratham11&theme=ads-juicy-fresh&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+
 
 ## 🧔🏽‍♂️ About Me 
 
