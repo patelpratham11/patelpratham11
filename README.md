@@ -13,6 +13,8 @@
   </div>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=patelpratham11&theme=ads-juicy-fresh&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+
 ## 🧔🏽‍♂️ About Me 
 
 - 👨🏾‍💻 I'm a CS Junior @ Pitt with a Chemistry Minor
