@@ -14,7 +14,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patelpratham11&theme=ads-juicy-fresh&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={patelpratham11}&theme={dracula})
+[!Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={patelpratham11}&theme={dracula})
 
 
 
