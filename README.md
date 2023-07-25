@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/patelpratham11/">
       <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://prathampatel.netlify.app">
+    <a href="https://patelpratham.pages.dev">
       <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
