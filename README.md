@@ -18,10 +18,9 @@
 
 
 ## 🧔🏽‍♂️ About Me 
-
-- 👨🏾‍💻 I'm a CS Junior @ Pitt with a Chemistry Minor
+- 👨🏾‍💻 I'm a CS Senior @ Pitt with a Chemistry Minor
 - 🔬 Undergraduate Alzheimer's Disease Researcher
-- ✈️ Incoming Emerging Tech Consultant at **Protiviti**
+- ✈️ Former Emerging Tech Consultant at **Protiviti**
 - 🏦 Former **PNC** intern 
 <br><br>
 ## 💻 Technologies
